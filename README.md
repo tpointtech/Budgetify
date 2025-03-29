@@ -36,7 +36,7 @@
 
   <ul>
     <li><a href="https://guides.rubyonrails.org/">Ruby on Rails</a></li>
-    <li><a href="https://www.javatpoint.com/postgresql-tutorial">PostgreSQL</a></li>
+    <li><a href="https://www.tpointtech.com/postgresql-tutorial">PostgreSQL</a></li>
     <li><a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/">Bootstrap</a></li>
   </ul>
 
